@@ -1,0 +1,8 @@
+.flex {
+  display: flex;
+  display: -webkit-flex;
+}
+
+.phone-box .ivu-collapse-header {
+  display: none
+}
